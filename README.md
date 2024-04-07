@@ -1,2 +1,2 @@
 # Secure-Chat-Backend
-Backend for Secure Chat 3A04
+Backend for Secure Chat 3A04.
