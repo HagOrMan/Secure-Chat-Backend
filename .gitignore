@@ -26,3 +26,4 @@ replay_pid*
 Env.java
 
 .idea/libraries/
+**/application.properties
